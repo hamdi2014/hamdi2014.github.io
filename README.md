@@ -24,6 +24,6 @@ This website has no auto toggle theme switcher, therefor to change themes you mu
 --mainBgColor:var(--mainBgColor-light);
 ```
 ## Sources
-[Teaxher Git Hub Account][https://github.com/divanov11]
-[YouTube][https://www.youtube.com/watch?v=clwpf3VwCZQ]
-[Source Code][https://github.com/divanov11/Digital-Resume]
+[Teaxher Git Hub Account](https://github.com/divanov11)
+[YouTube](https://www.youtube.com/watch?v=clwpf3VwCZQ)
+[Source Code](https://github.com/divanov11/Digital-Resume)
